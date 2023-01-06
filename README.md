@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anisha-04
-- 👀 I’m interested in Data Science and Machine learning.
-- 🌱 I’m currently pursuing my Bachelor's Degree in Computer Science.
+- 👀 I’m interested in Software Engineering, Data Science, Machine learning and Deep Learning fields.
+- 🌱 I’m pursuing my Bachelor's Degree in Computer Science at California State University, Monterey Bay
 - 💞️ I’m looking to collaborate on Data Science and ML projects
 - 📫 You can reach me via email: anisha.jadhav07@gmail.com
 
